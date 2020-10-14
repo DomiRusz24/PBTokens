@@ -1,0 +1,9 @@
+name: PBTokens
+version: ${project.version}
+main: me.domirusz24.pb.pbtokens.pbtokens.PBTokens
+authors: [DomiRusz24]
+commands:
+  tokensmanage:
+    description: Tokens
+  schowek:
+    description: Schowek
